@@ -1,0 +1,40 @@
+Listing tests:
+  [desktop-chromium] › portfolio.spec.js:15:1 › homepage title and core sections
+  [desktop-chromium] › portfolio.spec.js:24:3 › navigation: Home
+  [desktop-chromium] › portfolio.spec.js:24:3 › navigation: About
+  [desktop-chromium] › portfolio.spec.js:24:3 › navigation: Projects
+  [desktop-chromium] › portfolio.spec.js:24:3 › navigation: Skills
+  [desktop-chromium] › portfolio.spec.js:24:3 › navigation: Contact
+  [desktop-chromium] › portfolio.spec.js:38:1 › About popup opens and closes
+  [desktop-chromium] › portfolio.spec.js:46:1 › About popup supports keyboard dismissal
+  [desktop-chromium] › portfolio.spec.js:54:1 › contact rejects empty required fields and invalid email
+  [desktop-chromium] › portfolio.spec.js:65:1 › contact includes name, email and message in submission data without sending
+  [desktop-chromium] › portfolio.spec.js:77:1 › guestbook required message and reaction selection
+  [desktop-chromium] › portfolio.spec.js:91:1 › snake difficulty, mode, start and pause
+  [desktop-chromium] › portfolio.spec.js:107:1 › layout has no horizontal overflow
+  [desktop-chromium] › portfolio.spec.js:112:1 › images load after scrolling through the page
+  [desktop-chromium] › portfolio.spec.js:121:1 › internal fragment links have valid targets
+  [desktop-chromium] › portfolio.spec.js:126:1 › no uncaught JavaScript errors during reload and section scroll
+  [desktop-chromium] › portfolio.spec.js:139:3 › accessibility: default page
+  [desktop-chromium] › portfolio.spec.js:139:3 › accessibility: About popup
+  [desktop-chromium] › portfolio.spec.js:139:3 › accessibility: game briefing
+  [mobile-chromium] › portfolio.spec.js:15:1 › homepage title and core sections
+  [mobile-chromium] › portfolio.spec.js:24:3 › navigation: Home
+  [mobile-chromium] › portfolio.spec.js:24:3 › navigation: About
+  [mobile-chromium] › portfolio.spec.js:24:3 › navigation: Projects
+  [mobile-chromium] › portfolio.spec.js:24:3 › navigation: Skills
+  [mobile-chromium] › portfolio.spec.js:24:3 › navigation: Contact
+  [mobile-chromium] › portfolio.spec.js:38:1 › About popup opens and closes
+  [mobile-chromium] › portfolio.spec.js:46:1 › About popup supports keyboard dismissal
+  [mobile-chromium] › portfolio.spec.js:54:1 › contact rejects empty required fields and invalid email
+  [mobile-chromium] › portfolio.spec.js:65:1 › contact includes name, email and message in submission data without sending
+  [mobile-chromium] › portfolio.spec.js:77:1 › guestbook required message and reaction selection
+  [mobile-chromium] › portfolio.spec.js:91:1 › snake difficulty, mode, start and pause
+  [mobile-chromium] › portfolio.spec.js:107:1 › layout has no horizontal overflow
+  [mobile-chromium] › portfolio.spec.js:112:1 › images load after scrolling through the page
+  [mobile-chromium] › portfolio.spec.js:121:1 › internal fragment links have valid targets
+  [mobile-chromium] › portfolio.spec.js:126:1 › no uncaught JavaScript errors during reload and section scroll
+  [mobile-chromium] › portfolio.spec.js:139:3 › accessibility: default page
+  [mobile-chromium] › portfolio.spec.js:139:3 › accessibility: About popup
+  [mobile-chromium] › portfolio.spec.js:139:3 › accessibility: game briefing
+Total: 38 tests in 1 file
